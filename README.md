@@ -1,8 +1,8 @@
 # DATA-SCIENCE
 
 TSF GRIP DATA SCIENCE AND BUSINESS ANALYTICS INTERN
-Task 2 : Prediction using Unsupervised ML (K-means Clustering)¶
-Author : Aishani Aarya
+Task 2 : Prediction using Unsupervised ML (K-means Clustering)
+
 Problem Statement:
 Predict the optimum number of clusters and represent it visually.
 
